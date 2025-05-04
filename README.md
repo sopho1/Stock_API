@@ -25,7 +25,7 @@ This is a .NET 7.0 Web API project for managing stock data, including company in
 3. dotnet ef database update
 4. dotnet run
 5. Access the API:
-    - Swagger UI: http://localhost:<port>/swagger   
+    - Swagger UI: http://localhost:port/swagger   
 
 # License
 This project is licensed under the MIT License.    
